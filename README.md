@@ -1,4 +1,3 @@
 # meu_1portfolio
 
-
-testestetse
+Para acessar ao meu portfólio, clique aqui: https://gustavobrb.github.io/meu_1portfolio/
